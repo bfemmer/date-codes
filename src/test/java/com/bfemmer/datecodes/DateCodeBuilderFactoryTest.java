@@ -23,8 +23,6 @@ SOFTWARE.
  */
 package com.bfemmer.datecodes;
 
-import com.bfemmer.datecodes.DateCodeBuilder;
-import com.bfemmer.datecodes.DateCodeBuilderFactory;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
